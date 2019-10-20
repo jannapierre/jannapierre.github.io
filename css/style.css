@@ -130,6 +130,10 @@ footer .glyphicon {
   -webkit-animation-duration: 1s;
   visibility: visible;
 }
+.icon{
+  height: 100px;
+  width: 100px;
+}
 @keyframes slide {
   0% {
     opacity: 0;
