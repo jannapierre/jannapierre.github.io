@@ -134,6 +134,10 @@ footer .glyphicon {
   height: 100px;
   width: 100px;
 }
+.logo{
+  height: 50px;
+  width: 50px;
+}
 @keyframes slide {
   0% {
     opacity: 0;
